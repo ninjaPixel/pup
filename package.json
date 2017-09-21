@@ -14,7 +14,6 @@
     "core-js": "^2.5.1",
     "fs": "0.0.1-security",
     "handlebars": "^4.0.10",
-    "jquery": "^2.2.4",
     "jquery-validation": "^1.17.0",
     "juice": "^4.1.1",
     "lodash": "^4.17.4",
